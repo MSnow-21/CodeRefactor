@@ -9,18 +9,22 @@ When I initially opened up the files in Visual Studio, I noticed that the HTML w
 
 Project Execution:
 Steps
-•	Structured HTML elements to meet standard format. Put Head, DIV, UL, LI, and P in proper locations. Removed extra spacing between UL, LI, and P tags. 
-•	Renamed Main title page.
-•	Reviewed H tags and replaced last tag that was not in proper order.
-•	Updated Search Engine Optimization content div to proper ID and Class definitions. This provided functionality to the websites click element.
-•	Added alt = “” to all image elements. Removed unnecessary img tags.
-•	Reviewed document to ensure the required semantic IDs.
-•	Reordered CSS to match flow of html document.
-•	Entered notes over each CSS section to clarify portion of html document.
-•	Added apostrophes to missing font-family’s.
+•Structured HTML elements to meet standard format. Put Head, DIV, UL, LI, and P in proper locations. Removed extra spacing between UL, LI, and P tags. 
+•Renamed Main title page.
+•Reviewed H tags and replaced last tag that was not in proper order.
+•Updated Search Engine Optimization content div to proper ID and Class definitions. This provided functionality to the websites click element.
+•Added alt = “” to all image elements. Removed unnecessary img tags.
+•Reviewed document to ensure the required semantic IDs.
+•Reordered CSS to match flow of html document.
+•Entered notes over each CSS section to clarify portion of html document.
+•Added apostrophes to missing font-family’s.
+•Added buttons classes in header of unordered list section.
+•Updated all background colors to match headers text to background color ratio.
+
 
 Lessons Learned:
-•	For Semantic elements: I almost initially decided to change the DIV classes to Header tags until I learned the restrictions of placing Header tags within other Header tags.
+•For Semantic elements: I almost initially decided to change the DIV classes to Header tags until I learned the restrictions of placing Header tags within other Header tags.
+•Test the constrast ratio for font and background colors to ensure they meet accessibility requirements.
 
 Final Product:
 The website meets the required specifications and functionality. HTML has been structured properly. All classes, IDs, and CSS layouts meet accessibility requirements. All html and css code flow as required.
