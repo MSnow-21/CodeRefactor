@@ -10,19 +10,19 @@ Accessing the Search Engine Optimization section.
 ![](assets/images/mainseo.png)
 
 Search Engine Optimization section.
-![](assets/images/mainseo2.png)
+![](assets/images/mainseosection.PNG)
 
 Accessing the Online Reputation Management section.
 ![](assets/images/mainorm.png)
 
 Online Reputation Management section.
-![](assets/images/mainorm2.png)
+![](assets/images/mainormsection.PNG)
 
 Accessing the Social Media Marketing section.
 ![](assets/images/mainsmm.png)
 
 Social Media Marketing Section
-![](assets/images/mainsmm2.png)
+![](assets/images/mainsmmsection.PNG)
 
 First Impression:
 To begin this project, I received the html, css, and image files for the Horiseon main web page user site. I needed to review the website for functionality, see that the HTML was properly structured, and that all content was labeled clearly for accessibility
