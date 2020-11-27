@@ -3,6 +3,13 @@
 Description:
 This project receives existing html, css, and image documents for the Horiseon main web page. Upon receipt, the documents and website need to be reviewed to ensure full functionality and ensure accessibility requirements.
 
+Usage:
+The Horiseon web site can be utilized by clicking each of the content links. Please see images below.
+
+Accessing the Search Engine Optimization section.
+![](assets/images/mainseo.png)
+![](assets/images/mainseo2.png))
+
 First Impression:
 To begin this project, I received the html, css, and image files for the Horiseon main web page user site. I needed to review the website for functionality, see that the HTML was properly structured, and that all content was labeled clearly for accessibility
 When I initially opened up the files in Visual Studio, I noticed that the HTML was not structured properly. The Head, Body, and Div tags were all aligned to the left of the html document. Unordered list and paragraphs had unnecessary spacing with the html tags. Alt attributes were not entered and item classes were missing in one of the DIVS. Scanning through the CSS document I saw a large amount detail, however, I found myself tracing which property attributes belonged to what on the html document, creating a lot of confusion. In order to find out if the documents were even working properly, I opened up my browser to explore. A first glance I confirmed that the title of the webpage was not sufficient. The remainder of the page looked good, however, when I tested the clickable links of “Search Engine Optimization”, “Online Reputation Management”, and “Social Media Marketing”, I noticed that the Search Engine Optimization button did not move to the Search Engine Optimization section lower on the screen.
