@@ -8,7 +8,15 @@ The Horiseon web site can be utilized by clicking each of the content links. Ple
 
 Accessing the Search Engine Optimization section.
 ![](assets/images/mainseo.png)
-![](assets/images/mainseo2.png))
+![](assets/images/mainseo2.png)
+
+Accessing the Online Reputation Management section.
+![](assets/images/mainorm.png)
+![](assets/images/mainorm2.png)
+
+Accessing the Social Media Marketing section.
+![](assets/images/mainsmm.png)
+![](assets/images/mainsmm2.png)
 
 First Impression:
 To begin this project, I received the html, css, and image files for the Horiseon main web page user site. I needed to review the website for functionality, see that the HTML was properly structured, and that all content was labeled clearly for accessibility
