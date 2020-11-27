@@ -8,14 +8,20 @@ The Horiseon web site can be utilized by clicking each of the content links. Ple
 
 Accessing the Search Engine Optimization section.
 ![](assets/images/mainseo.png)
+
+Search Engine Optimization section.
 ![](assets/images/mainseo2.png)
 
 Accessing the Online Reputation Management section.
 ![](assets/images/mainorm.png)
+
+Online Reputation Management section.
 ![](assets/images/mainorm2.png)
 
 Accessing the Social Media Marketing section.
 ![](assets/images/mainsmm.png)
+
+Social Media Marketing Section
 ![](assets/images/mainsmm2.png)
 
 First Impression:
