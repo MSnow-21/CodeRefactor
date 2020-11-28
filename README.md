@@ -1,5 +1,7 @@
 # Code Refactor Project
 
+Link to Deployed Application: https://msnow-21.github.io/CodeRefactor/
+
 Description:
 This project receives existing html, css, and image documents for the Horiseon main web page. Upon receipt, the documents and website need to be reviewed to ensure full functionality and ensure accessibility requirements.
 
